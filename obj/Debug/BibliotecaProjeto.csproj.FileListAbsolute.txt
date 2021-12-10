@@ -1,0 +1,59 @@
+C:\Users\gabriel.pcampezzi\Desktop\BibliotecaProjeto\BibliotecaProjeto\bin\Debug\BibliotecaProjeto.exe.config
+C:\Users\gabriel.pcampezzi\Desktop\BibliotecaProjeto\BibliotecaProjeto\bin\Debug\BibliotecaProjeto.exe
+C:\Users\gabriel.pcampezzi\Desktop\BibliotecaProjeto\BibliotecaProjeto\bin\Debug\BibliotecaProjeto.pdb
+C:\Users\gabriel.pcampezzi\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmCLivros.resources
+C:\Users\gabriel.pcampezzi\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmConsultarFuncionario.resources
+C:\Users\gabriel.pcampezzi\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmConsultarCliente.resources
+C:\Users\gabriel.pcampezzi\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmConsultarLivro.resources
+C:\Users\gabriel.pcampezzi\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmDevolucao.resources
+C:\Users\gabriel.pcampezzi\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmEmprestar.resources
+C:\Users\gabriel.pcampezzi\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmEmprestimoDevolucao.resources
+C:\Users\gabriel.pcampezzi\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.lblUsuario.resources
+C:\Users\gabriel.pcampezzi\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmCCliente.resources
+C:\Users\gabriel.pcampezzi\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmCFuncionario.resources
+C:\Users\gabriel.pcampezzi\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmLogin.resources
+C:\Users\gabriel.pcampezzi\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.Properties.Resources.resources
+C:\Users\gabriel.pcampezzi\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.csproj.GenerateResource.Cache
+C:\Users\gabriel.pcampezzi\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.exe
+C:\Users\gabriel.pcampezzi\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.pdb
+C:\Users\gabriel.pcampezzi\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\BibliotecaProjeto\BibliotecaProjeto\bin\Debug\BibliotecaProjeto.exe.config
+C:\Users\Home\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.exe
+C:\Users\Home\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.pdb
+C:\Users\Home\Desktop\BibliotecaProjeto\BibliotecaProjeto\bin\Debug\BibliotecaProjeto.exe
+C:\Users\Home\Desktop\BibliotecaProjeto\BibliotecaProjeto\bin\Debug\BibliotecaProjeto.pdb
+C:\Users\Home\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmCLivros.resources
+C:\Users\Home\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmConsultarFuncionario.resources
+C:\Users\Home\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmConsultarCliente.resources
+C:\Users\Home\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmConsultarLivro.resources
+C:\Users\Home\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmDevolucao.resources
+C:\Users\Home\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmEmprestar.resources
+C:\Users\Home\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmEmprestimoDevolucao.resources
+C:\Users\Home\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.lblUsuario.resources
+C:\Users\Home\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmCCliente.resources
+C:\Users\Home\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmCFuncionario.resources
+C:\Users\Home\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmLogin.resources
+C:\Users\Home\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.Properties.Resources.resources
+C:\Users\Home\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.csproj.GenerateResource.Cache
+C:\Users\gabriel.pcampezzi\Desktop\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmSobre.resources
+C:\Users\Bruno\SENAC\PROGRAMAÇÃO\TCC PROJETO SISTEMA\BibliotecaProjeto\BibliotecaProjeto\bin\Debug\BibliotecaProjeto.exe.config
+C:\Users\Bruno\SENAC\PROGRAMAÇÃO\TCC PROJETO SISTEMA\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.exe
+C:\Users\Bruno\SENAC\PROGRAMAÇÃO\TCC PROJETO SISTEMA\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.pdb
+C:\Users\Bruno\SENAC\PROGRAMAÇÃO\TCC PROJETO SISTEMA\BibliotecaProjeto\BibliotecaProjeto\bin\Debug\BibliotecaProjeto.exe
+C:\Users\Bruno\SENAC\PROGRAMAÇÃO\TCC PROJETO SISTEMA\BibliotecaProjeto\BibliotecaProjeto\bin\Debug\BibliotecaProjeto.pdb
+C:\Users\Bruno\SENAC\PROGRAMAÇÃO\TCC PROJETO SISTEMA\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\SENAC\PROGRAMAÇÃO\TCC PROJETO SISTEMA\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmCLivros.resources
+C:\Users\Bruno\SENAC\PROGRAMAÇÃO\TCC PROJETO SISTEMA\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmConsultarFuncionario.resources
+C:\Users\Bruno\SENAC\PROGRAMAÇÃO\TCC PROJETO SISTEMA\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmConsultarCliente.resources
+C:\Users\Bruno\SENAC\PROGRAMAÇÃO\TCC PROJETO SISTEMA\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmConsultarLivro.resources
+C:\Users\Bruno\SENAC\PROGRAMAÇÃO\TCC PROJETO SISTEMA\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmDevolucao.resources
+C:\Users\Bruno\SENAC\PROGRAMAÇÃO\TCC PROJETO SISTEMA\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmEmprestar.resources
+C:\Users\Bruno\SENAC\PROGRAMAÇÃO\TCC PROJETO SISTEMA\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmEmprestimoDevolucao.resources
+C:\Users\Bruno\SENAC\PROGRAMAÇÃO\TCC PROJETO SISTEMA\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.lblUsuario.resources
+C:\Users\Bruno\SENAC\PROGRAMAÇÃO\TCC PROJETO SISTEMA\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmCCliente.resources
+C:\Users\Bruno\SENAC\PROGRAMAÇÃO\TCC PROJETO SISTEMA\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmCFuncionario.resources
+C:\Users\Bruno\SENAC\PROGRAMAÇÃO\TCC PROJETO SISTEMA\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmLogin.resources
+C:\Users\Bruno\SENAC\PROGRAMAÇÃO\TCC PROJETO SISTEMA\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.frmSobre.resources
+C:\Users\Bruno\SENAC\PROGRAMAÇÃO\TCC PROJETO SISTEMA\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.Properties.Resources.resources
+C:\Users\Bruno\SENAC\PROGRAMAÇÃO\TCC PROJETO SISTEMA\BibliotecaProjeto\BibliotecaProjeto\obj\Debug\BibliotecaProjeto.csproj.GenerateResource.Cache
